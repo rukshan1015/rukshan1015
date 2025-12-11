@@ -32,14 +32,9 @@ I enjoy working at the intersection of **cloud-native ML, LLMs, and business imp
 
 ## 🏅 Certifications
 
-<div align="center">
-  <img src="https://images.credly.com/size/220x220/images/0eb3fe7c-861e-4f87-9f66-f0f59d02c6f9/image.png" 
-       width="110" alt="AWS Machine Learning Engineer Associate"/>
-  <img src="https://images.credly.com/size/220x220/images/8c2bfdf3-01e5-4b77-84f1-dabc0067ed62/image.png" 
-       width="110" alt="AWS AI Practitioner"/>
-  <img src="https://images.credly.com/size/220x220/images/6f2ac35f-dc4b-4e43-afde-01efe8d6d81d/image.png" 
-       width="110" alt="Tableau Desktop Practitioner"/>
-</div>
+- AWS Machine Learning Engineer Associate
+- AWS AI Practitioner
+- Tableau Desktop Specialist
 
 ---
 

@@ -80,15 +80,16 @@ I enjoy working at the intersection of **cloud-native ML, LLMs, and business imp
 </div>
 
 ### 🔹 Machine Learning & AI
-- scikit-learn, **XGBoost**, LightGBM  
+- Scikit-learn, XGBoost, Tensorflow, Keras  
 - HuggingFace **transformers**, LangChain  
 - SHAP, PDP, model explainability tools  
 
 ### 🔹 Data Engineering & Analytics
-- **Apache Hive**, **Impala**, SQL  
-- Pandas, NumPy  
-- Tableau, Plotly, Matplotlib, Seaborn  
-- ETL / data cleansing / feature engineering workflows  
+- SQL (MySQL, PostgreSQL, SQLite)
+- Distributed SQL engines: **Apache Hive**, **Impala**
+- Pandas, NumPy
+- Tableau, Plotly, Matplotlib, Seaborn
+- ETL, data cleansing, feature engineering workflows
 
 ### 🔹 Cloud
 - AWS: **S3**, **SageMaker**, Lambda, CloudFront  

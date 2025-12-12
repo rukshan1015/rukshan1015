@@ -79,10 +79,21 @@ I enjoy working at the intersection of **cloud-native ML, LLMs, and business imp
 
 </div>
 
-**Also use:**  
-- **ML/AI:** scikit-learn, XGBoost, LightGBM, transformers, LangChain  
-- **Data & Analytics:** Pandas, NumPy, Tableau, Plotly, Matplotlib  
-- **Cloud:** S3, SageMaker, Lambda, CloudFront, ECR/ECS, Route 53  
+### 🔹 Machine Learning & AI
+- scikit-learn, **XGBoost**, LightGBM  
+- HuggingFace **transformers**, LangChain  
+- SHAP, PDP, model explainability tools  
+
+### 🔹 Data Engineering & Analytics
+- **Apache Hive**, **Impala**, SQL  
+- Pandas, NumPy  
+- Tableau, Plotly, Matplotlib, Seaborn  
+- ETL / data cleansing / feature engineering workflows  
+
+### 🔹 Cloud
+- AWS: **S3**, **SageMaker**, Lambda, CloudFront  
+- ECR / ECS, EC2, IAM, Route 53  
+- Docker-based deployment workflows   
 
 ---
 

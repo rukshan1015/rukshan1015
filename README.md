@@ -40,8 +40,6 @@ I enjoy working at the intersection of **cloud-native ML, LLMs, and business imp
 
 ## 🧠 What I Do
 
-## 🧠 What I Do
-
 ### 🔹 Machine Learning & AI
 - Design and deploy **end-to-end ML pipelines**
 - Build traditional ML + modern AI models (tabular, text, image)

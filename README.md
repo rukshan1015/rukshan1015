@@ -40,24 +40,34 @@ I enjoy working at the intersection of **cloud-native ML, LLMs, and business imp
 
 ## 🧠 What I Do
 
+## 🧠 What I Do
+
 ### 🔹 Machine Learning & AI
-- Design and deploy end-to-end machine learning pipelines  
-- Develop traditional ML and modern AI models for structured and unstructured data  
-- Perform model evaluation, interpretation, and responsible AI analysis  
-- Optimize model performance through data-driven experimentation 
+- Design and deploy **end-to-end ML pipelines**
+- Build traditional ML + modern AI models (tabular, text, image)
+- Perform **model evaluation, interpretation, and responsible AI**
+- Optimize performance with cross-validation, tuning, and experimentation
 
 ### 🔹 LLM & Agentic Systems
-- LLM-powered **analysis, generation, and tool use**  
-- **RAG pipelines** with embeddings & vector databases  
-- Multi-step / multi-agent reasoning workflows  
-- LangChain, OpenAI API, hybrid ML + LLM stacks
+- LLM-powered **analysis, generation, and tool use**
+- **RAG pipelines** with embeddings & vector databases
+- Multi-step and multi-agent reasoning workflows
+- LangChain, OpenAI API, hybrid ML + LLM architectures
+
+### 🔹 Data & Statistical Analysis
+- Exploratory Data Analysis (EDA) for insight generation
+- **Hypothesis testing**: t-tests, z-tests, proportion tests, nonparametric methods
+- **ANOVA / MANOVA** for multi-group comparisons
+- **Chi-square** tests for independence & goodness-of-fit
+- Correlation analysis, effect size estimation, confidence intervals
+- Statistical foundations that support **ML decision-making & interpretation**
 
 ### 🔹 Cloud & MLOps
-- **SageMaker** (training, tuning, endpoints, pipelines)  
-- Event-driven ML with **Lambda, EventBridge, Step Functions**  
-- **Docker + FastAPI** for inference services  
-- CI/CD basics with **GitHub Actions**  
-- Secure setups with **IAM** and AWS best practices
+- **AWS SageMaker** (training, tuning, endpoints, pipelines)
+- Event-driven ML with **Lambda, EventBridge, Step Functions**
+- **Docker + FastAPI** for scalable inference services
+- CI/CD with **GitHub Actions**
+- Secure cloud setups using **IAM** and AWS best practices
 
 ---
 

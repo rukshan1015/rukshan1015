@@ -16,6 +16,8 @@
 
 ## 🧑‍💻 About Me
 
+I bridge the gap between complex physical sciences and scalable AI solutions. Currently focused on building autonomous agent architectures and scientific machine learning pipelines. I enjoy working at the intersection of **cloud-native ML, LLMs, and business impact**, especially in **healthcare and materials science**.
+
 <img align="right" alt="Coding" width="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 - 🎓 **PhD in Physics** – low-dimensional materials, modeling, simulation  
@@ -26,8 +28,12 @@
 - 🐳 Use **Docker + FastAPI** for production-grade ML services  
 - 📊 Tell data stories with **Tableau** & advanced analytics  
 
-I enjoy working at the intersection of **cloud-native ML, LLMs, and business impact**, especially in **healthcare, education, and materials science**.
-
+---
+## 🛠️ Technical Stack
+* **AI & Agentic:** Prompt refining, LLM fine-tuning, RAG pipelines, OpenAI SDK, LangGraph, MCPs
+* **ML:** Scikit-learn, Tensorflow, PyTorch, XGBoost, GNNs
+* **Cloud & DevOps:** AWS (SageMaker, Bedrock, Lambda, EventBridge, Cloudwatch), Docker, FastAPI
+* **Data & Business:** Tableau, SQL, Financial Modeling (MBA Focus)
 ---
 
 ## 🏅 Certifications

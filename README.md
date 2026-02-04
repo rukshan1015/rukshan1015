@@ -29,12 +29,6 @@ I bridge the gap between complex physical sciences and scalable AI solutions. Cu
 - 📊 Tell data stories with **Tableau** & advanced analytics  
 
 ---
-## 🛠️ Technical Stack
-* **AI & Agentic:** Prompt refining, LLM fine-tuning, RAG pipelines, OpenAI SDK, LangGraph, MCPs
-* **ML:** Scikit-learn, Tensorflow, PyTorch, XGBoost, GNNs
-* **Cloud & DevOps:** AWS (SageMaker, Bedrock, Lambda, EventBridge, Cloudwatch), Docker, FastAPI
-* **Data & Business:** Tableau, SQL, Financial Modeling (MBA Focus)
----
 
 ## 🏅 Certifications
 
@@ -54,9 +48,10 @@ I bridge the gap between complex physical sciences and scalable AI solutions. Cu
 
 ### 🔹 LLM & Agentic Systems
 - LLM-powered **analysis, generation, and tool use**
+- Fine-tuning and Prompt refining 
 - **RAG pipelines** with embeddings & vector databases
 - Multi-step and multi-agent reasoning workflows
-- LangChain, OpenAI API, hybrid ML + LLM architectures
+- LangGraph, OpenAI SDK, hybrid ML + LLM architectures
 
 ### 🔹 Data & Statistical Analysis
 - Exploratory Data Analysis (EDA) for insight generation
@@ -68,10 +63,12 @@ I bridge the gap between complex physical sciences and scalable AI solutions. Cu
 
 ### 🔹 Cloud & MLOps
 - **AWS SageMaker** (training, tuning, endpoints, pipelines)
+- **AWS Bedrock** AI Ops
 - Event-driven ML with **Lambda, EventBridge, Step Functions**
 - **Docker + FastAPI** for scalable inference services
 - CI/CD with **GitHub Actions**
 - Secure cloud setups using **IAM** and AWS best practices
+- Monitoring with CloudWatch & CloudTrail
 
 ---
 
@@ -86,8 +83,8 @@ I bridge the gap between complex physical sciences and scalable AI solutions. Cu
 </div>
 
 ### 🔹 Machine Learning & AI
-- Scikit-learn, XGBoost, Tensorflow, Keras  
-- HuggingFace **transformers**, LangChain  
+- Scikit-learn, XGBoost, Tensorflow, PyTorch  
+- HuggingFace **transformers**, LangChain, OpenAI SDK  
 - SHAP, PDP, model explainability tools  
 
 ### 🔹 Data Engineering & Analytics
@@ -98,7 +95,7 @@ I bridge the gap between complex physical sciences and scalable AI solutions. Cu
 - ETL, data cleansing, feature engineering workflows
 
 ### 🔹 Cloud
-- AWS: **S3**, **SageMaker**, Lambda, CloudFront  
+- AWS: **S3**, **SageMaker**, Lambda, CloudWatch, Eventbridge  
 - ECR / ECS, EC2, IAM, Route 53  
 - Docker-based deployment workflows   
 
